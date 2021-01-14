@@ -1,6 +1,26 @@
-# Inventory
+# InventoryApp in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+
+
+
+## Prerequisites
+
+  Node.js : Node.js is a JavaScript runtime
+  node -v
+  npm : Node.js Package Manager
+  npm -v
+- TypeScript : npm install -g typescript
+- Angular CLI - Angular Command Line Interface
+- npm install -g @angular/cli
+- Now CLI - Now Command Line Interface is universal serverless single command deployment
+- npm install -g now
+
+## Useful scripts
+- setup
+- run
+- build
+- deploy
 
 ## Development server
 
